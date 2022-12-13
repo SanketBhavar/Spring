@@ -10,5 +10,4 @@ public class Airtel implements Sim {
 		System.out.println("Browsing internet using Airtel Sim");
 	}
 
-	
 }
